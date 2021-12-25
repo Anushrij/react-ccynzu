@@ -1,0 +1,95 @@
+body{
+  font-family: Lato;
+
+  background: #E5E5E5;
+}
+
+
+.img{
+  width: 128px;
+height: 128px;
+border-radius:50%;
+left: 286px;
+top: 228px;
+}
+
+
+.card{
+  
+width: 996px;
+background: #FFFFFF;
+box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+border-radius: 16px;
+}
+
+.title{
+  /* position: absolute;
+width: 600px;
+height: 64px; */
+/* left: 478px;
+top: 211px; */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+
+/* identical to box height, or 64px */
+
+letter-spacing: -1.85px;
+text-decoration-line: underline;
+
+color: #E16259;
+}
+
+
+
+
+
+
+
+
+
+
+.streetNumber1{
+  color: #A259FF;
+  font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+}
+
+/* .streetNumber{
+
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+
+or 29px
+
+
+color:black;
+}
+ */
+
+.typo{
+  
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+
+}
+/* 
+[{"gender":"female","name":{"title":"Madame","first":"Amalia","last":"Lecomte"},"location":{"street":{"number":8424,"name":"Rue de L'Église"},"city":"Känerkinden","state":"Aargau","country":"Switzerland","postcode":6097,"coordinates":{"latitude":"-52.1250","longitude":"35.6236"},"timezone":{"offset":"+10:00","description":"Eastern Australia, Guam, Vladivostok"}},"email":"amalia.lecomte@example.com","picture":{"large":"https://randomuser.me/api/portraits/women/31.jpg","medium":"https://randomuser.me/api/portraits/med/women/31.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/31.jpg"},"nat":"CH"}]
+
+Ms. Teatske Nijenhuis
+775, Heindertweg, Born, Zeeland, Netherlands, 18818
++6:00 - Almaty, Dhaka, Colombo
+Female
+ */
